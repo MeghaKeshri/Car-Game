@@ -1,7 +1,7 @@
 ![Badge](https://img.shields.io/badge/Project--1-Landing--Page-blue)
 # Car - Game💻
 ### Hey, I am [**Megha**](https://www.linkedin.com/in/meghakeshri/) 🙂 
-### This is  my 12th live Project and third Game project.
+### This is  my 1st live Project and third Game project.
 ### I made this project using ![HTML & CSS & js](https://img.shields.io/badge/HTML%20%26-CSS%20%26%20js-blue)
 
 ### Basically I used animation in this project and logics of game.
