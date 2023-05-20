@@ -1,6 +1,6 @@
-![Badge](https://img.shields.io/badge/Project--12-Landing--Page-blue)
+![Badge](https://img.shields.io/badge/Project--1-Landing--Page-blue)
 # Car - Game💻
-### Hey, I am [**Vishal**](https://www.linkedin.com/in/vishal-kumar-62146b230/) 🙂 
+### Hey, I am [**Megha**](https://www.linkedin.com/in/meghakeshri/) 🙂 
 ### This is  my 12th live Project and third Game project.
 ### I made this project using ![HTML & CSS & js](https://img.shields.io/badge/HTML%20%26-CSS%20%26%20js-blue)
 
